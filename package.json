@@ -2,7 +2,11 @@
   "name": "a11yeclipse",
   "displayName": "A11yEclipse",
   "description": "A sleek and accessible dark theme. Designed for readability and eye comfort, this theme provides high contrast while maintaining a modern and aesthetic look. Perfect for long coding sessions.",
-  "version": "0.0.1",
+  "publisher": "GizeBonilla",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/XixeBombilla/a11yeclipse"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -17,5 +21,6 @@
         "path": "./themes/a11yeclipse-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }

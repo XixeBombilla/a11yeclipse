@@ -19,7 +19,7 @@
     "list.activeSelectionBackground": "#2E3440",
     "list.hoverBackground": "#2f343d",
     "list.focusBackground": "#2E3440",
-    "tab.inactiveBackground": "#2E3440"
+    "tab.inactiveBackground": "#3B4252"
   },
   "tokenColors": [
     {
@@ -228,5 +228,8 @@
         "foreground": "#B48EAD"
       }
     }
-  ]
+  ],
+  "font": {
+    "editor.fontFamily": "'JetBrains Mono', monospace"
+  }
 }
