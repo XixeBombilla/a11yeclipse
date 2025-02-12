@@ -1,0 +1,21 @@
+{
+  "name": "a11yeclipse",
+  "displayName": "A11yEclipse",
+  "description": "A sleek and accessible dark theme. Designed for readability and eye comfort, this theme provides high contrast while maintaining a modern and aesthetic look. Perfect for long coding sessions.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "a11yeclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/a11yeclipse-color-theme.json"
+      }
+    ]
+  }
+}
