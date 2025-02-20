@@ -14,3 +14,10 @@ This theme is optimized to work with [JetBrains Mono](https://www.jetbrains.com/
 ```json
 "editor.fontFamily": "JetBrains Mono, Monaco, 'Courier New', monospace"
 ```
+
+## Compatibility
+
+This theme is compatible with:
+
+- Visual Studio Code (v1.70.0 and above)
+- Cursor Editor
