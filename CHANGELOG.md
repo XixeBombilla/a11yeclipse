@@ -1,9 +1,17 @@
-# Changelog
+# Change Log
 
-## [1.0.0] - 2025-02-11
+## [1.0.1] - 2024-03-19
+
+### Changed
+
+- Updated VSCode engine version to ^1.70.0 for Cursor compatibility
+
+## [1.0.0] - Initial release
 
 ### Added
 
+- Initial theme release
+- High contrast dark theme optimized for accessibility
 - **Initial release** of the custom VSCode theme.
 - Created a **dark mode** color scheme with the following colors:
   - Background: #1B1D2A (Dark gray-blue)
